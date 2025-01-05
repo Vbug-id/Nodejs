@@ -24,7 +24,7 @@ if (num1 < num2) {
 
 // Exemplo de igualdade; não utilizar == para igualdade ha problemas em conversões implicitas de string e numeros 
 
-if ( num1 === num2){
+if ( num3 === num4){
     console.log('os numeros são iguais em valor e tipo')
 } else {
     console.log('os numeros são iguais porém não são do mesmo tipo') // os numeros são iguais porém não são do mesmo tipo
