@@ -1,3 +1,4 @@
+// FOR-OF é utilizado para array 'lista'
 const listNumber = [-3, -2, -1, 0, 1, 2, 3]
 const usuarios = ['Maria','José']
 
